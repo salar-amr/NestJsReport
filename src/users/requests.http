@@ -1,0 +1,10 @@
+### CREATE A NEW USER
+POST http://localhost:3000/auth/signup
+Content-Type: application/json
+
+{
+  "email": "sds@g.com",
+  "password": "djndsjfds"
+}
+###
+http://localhost:3000/auth/1
